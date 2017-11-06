@@ -1,0 +1,20 @@
+---
+version: 2
+multicolumn: 
+web-width: '750'
+export-width: 
+align: 
+float: 
+grid:
+  rows: 1
+  columns: 1
+  grid_elements:
+  - url: "/users/3/articles/173096/master/file/figures/william-playfair-excel-exports/william-playfair-excel-exports.png"
+    path: figures/william-playfair-excel-exports/william-playfair-excel-exports.png
+    type: static
+    from:
+    - 1
+    - 1
+    to:
+    - 1
+    - 1
