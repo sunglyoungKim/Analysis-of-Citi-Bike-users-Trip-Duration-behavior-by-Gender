@@ -9,7 +9,8 @@ grid:
   rows: 1
   columns: 1
   grid_elements:
-  - path: figures/william-playfair-excel-exports/citibike_HW.ipynb
+  - url: "/users/174916/articles/210994/master/file/figures/william-playfair-excel-exports/william-playfair-excel-exports.png"
+    path: figures/william-playfair-excel-exports/william-playfair-excel-exports.png
     type: static
     from:
     - 1
@@ -18,4 +19,3 @@ grid:
     - 1
     - 1
     folder_url: "/users/174916/articles/210994/master/folder/figures/william-playfair-excel-exports"
-    url: "/users/174916/articles/210994/master/file/figures/william-playfair-excel-exports/citibike_HW.ipynb"
