@@ -2,6 +2,8 @@ abstract.html
 9fe3.html
 ov7ide4m2c.tex
 jnk67p56lpg.html
+s1hccn5ob4.html
+j7ge4g6nnu8.html
 figures/william-playfair-excel-exports
 figures/log_distribution
 14bea.html
