@@ -3,7 +3,6 @@ abstract.html
 ov7ide4m2c.tex
 jnk67p56lpg.html
 oq77vel34bo.html
-cgkg21l2dug.html
 j7ge4g6nnu8.html
 09lahh8achg.html
 figures/william-playfair-excel-exports
