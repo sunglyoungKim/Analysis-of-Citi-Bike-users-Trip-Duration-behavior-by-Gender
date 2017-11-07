@@ -8,6 +8,7 @@ oq77vel34bo.html
 cgkg21l2dug.html
 buhfv0cfulg.html
 j7ge4g6nnu8.html
+09lahh8achg.html
 figures/william-playfair-excel-exports
 figures/log_distribution
 14bea.html
