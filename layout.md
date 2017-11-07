@@ -7,4 +7,9 @@ figures/william-playfair-excel-exports
 figures/log_distribution
 14bea.html
 f0c4h106lmo.html
+lvg34fk7r9g.html
+qk52054pp7.html
+r2jn6l1gs4g.html
+a2ge56chn4g.html
+q7ggb67fafo.html
 02oeldrqu48.html
