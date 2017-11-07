@@ -9,7 +9,6 @@ figures/log_distribution
 f0c4h106lmo.html
 9pnvnmt2kl8.html
 lvg34fk7r9g.html
-qk52054pp7.html
 a2ge56chn4g.html
 q7ggb67fafo.html
 02oeldrqu48.html
