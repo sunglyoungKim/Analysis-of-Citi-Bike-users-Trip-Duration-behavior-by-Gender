@@ -2,8 +2,6 @@ abstract.html
 9fe3.html
 ov7ide4m2c.tex
 jnk67p56lpg.html
-s1hccn5ob4.html
-t05r5ts84b.html
 oq77vel34bo.html
 cgkg21l2dug.html
 buhfv0cfulg.html
